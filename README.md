@@ -1,7 +1,7 @@
 # High School:
-## Solidworks:
-## Fusion 360:
-## Onshape:
+> Solidworks:
+> Fusion 360:
+> Onshape:
 
 # College:
-## Siemens NX:
+> Siemens NX:
