@@ -19,20 +19,24 @@
 ## **Siemens NX**
 ### Through an engineering design course I was introduced to Siemens NX. The final project for this class had students work in teams to design a bicycle:
 
-<img src="NX.FullBike.png" width='800'>
+<img src="NX.FullBike.png" width='500'>
 
 ### My contributions to the bicycle included:
 ### 1. The frame.
 
-<img src="NX.BikeFrame.png" width='800'>
+<img src="NX.BikeFrame.png" width='500'>
 
 ### 2. The tire and wheel.
 
-<img src="NX.BikeTire.png" width='400'><img src="NX.BikeWheel.png" width='400'>
+<img src="NX.BikeTire.png" width='300'><img src="NX.BikeWheel.png" width='300'>
 
-### 3. The fender and the water bottle holder
+### 3. The fender.
 
-<img src="NX.BikeFender.png" width='400'> <img src="NX.WaterBottleHolder.png" width='400'>
+<img src="NX.BikeFender.png" width='300'> 
+
+### 4. The water bottle holder
+
+<img src="NX.WaterBottleHolder.png" height='500'>
 
 # **High School**
 ### My highschool CAD experience started with an introductory engineering course, and continued to develop in my county-wide F.I.R.S.T. Robotics Competition (FRC) team.
