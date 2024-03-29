@@ -1,6 +1,6 @@
 # **Theodore Rohwer** 
 
-### Quick Links:
+## *Quick Links:*
 
 > [Siemens NX](#siemens-nx)
 >
