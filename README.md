@@ -11,20 +11,20 @@
 
 ![SolidWorks CAD parts](/NX.BikeFrame.png)
 
-> 1. The frame,
+> The frame.
 
 ![SolidWorks CAD parts](/NX.BikeTire.png)
 ![SolidWorks CAD parts](/NX.BikeWheel.png)
 
-> 3. the tire and wheel,
+> The tire and wheel.
 
 ![SolidWorks CAD parts](/NX.BikeFender.png)
 
-> 5. the fender,
+> The fender.
 
 ![SolidWorks CAD parts](/NX.WaterBottleHolder.png)
 
-> 7. and the water bottle holder.
+> The water bottle holder.
 
 
 # **High School**
