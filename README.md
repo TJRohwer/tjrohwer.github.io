@@ -4,7 +4,7 @@
 ### My CAD work in college has been limited to coursework.
 ## Siemens NX
 > Through an engineering design course I was introduced to Siemens NX.
-![SolidWorks CAD parts](/SW.PressurePlate.png)
+![SolidWorks CAD parts](/NX.FullBike.png)
 
 # **High School**
 ### My highschool CAD experience started with an introductory engineering course, and continued to develop in my county-wide F.I.R.S.T. Robotics Competition (FRC) team.
