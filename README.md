@@ -1,6 +1,10 @@
 # **Theodore Rohwer** 
 
 [Siemens NX](#siemens-nx)
+[SolidWorks](#solidworks)
+[AutoCad](#autocad)
+[Fusion 360](#fusion-360)
+[Onshape](#onshape)
 
 # **College**
 ### My CAD work in college has been limited to coursework.
