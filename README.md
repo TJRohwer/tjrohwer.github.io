@@ -69,21 +69,21 @@
 
 ### 3. Bottom wings & top wings
 
-<img src="F3.BiPlaneBottomWings.png" height='250'><img src="F3.BiPlaneTopWings.png" height='250'>
+<img src="F3.BiPlaneBottomWings.png" height='225'><img src="F3.BiPlaneTopWings.png" height='225'>
 
 ### 5. Propellor
 
-<img src="F3.Propellor.png" width='400'>
+<img src="F3.Propellor.png" width='600'>
 
 ### 6. Piece to hold in the battery and motor
 
-<img src="F3.BatteryStopper.png" width='400'>
+<img src="F3.BatteryStopper.png" width='600'>
 
 ## **Onshape**
 ### While under covid lockdown restrictions I also joined the FRC team. 
 ### We fully designed our robot in CAD before building:
 
-<img src="OS.FullRobot.png" width='400'>
+<img src="OS.FullRobot.png" width='600'>
 
 ### I designed the shooter mechanism:
 
@@ -93,7 +93,7 @@
 ### The main components for this included:
 ### 1. The side panels
 
-<img src="OS.SidePanel.png" width='400'>
+<img src="OS.SidePanel.png" width='600'>
 
 ### 2. The adjustable hood
 
@@ -101,5 +101,5 @@
 
 ### 3. The I.R. camera mount
 
-<img src="OS.CameraMount.png" width='400'>
+<img src="OS.CameraMount.png" width='600'>
 
