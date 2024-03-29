@@ -75,7 +75,7 @@
 ### 3. Bottom wings & top wings
 
 <img src="F3.BiPlaneBottomWings.png" width='400'>
-<img src="F3.BiPlaneTopWings.png" height='400'>
+<img src="F3.BiPlaneTopWings.png" width='400'>
 
 ### 5. Propellor
 
