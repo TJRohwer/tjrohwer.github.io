@@ -28,16 +28,11 @@
 
 ### 2. The tire and wheel.
 
-<img src="NX.BikeTire.png" width='350'><img src="NX.BikeWheel.png" width='350'>
+<img src="NX.BikeTire.png" width='400'><img src="NX.BikeWheel.png" width='400'>
 
-### 3. The fender.
+### 3. The fender and the water bottle holder
 
-<img src="NX.BikeFender.png" width='300'>
-
-### 4. The water bottle holder.
-
-<img src="NX.WaterBottleHolder.png" height='500'>
-
+<img src="NX.BikeFender.png" width='400'> <img src="NX.WaterBottleHolder.png" width='400'>
 
 # **High School**
 ### My highschool CAD experience started with an introductory engineering course, and continued to develop in my county-wide F.I.R.S.T. Robotics Competition (FRC) team.
