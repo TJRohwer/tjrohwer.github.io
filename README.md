@@ -32,7 +32,7 @@
 
 ### 3. The fender and water bottle holder.
 
-<img src="NX.BikeFender.png" width='300'>          <img src="NX.WaterBottleHolder.png" height='300'>
+<img src="NX.BikeFender.png" width='300'><img src="NX.WaterBottleHolder.png" height='300'>
 
 # **High School**
 ### My highschool CAD experience started with an introductory engineering course, and continued to develop in my county-wide F.I.R.S.T. Robotics Competition (FRC) team.
