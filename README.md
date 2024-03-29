@@ -27,7 +27,7 @@
 
 # **High School**
 ### My highschool CAD experience started with an introductory engineering course, and continued to develop in my county-wide F.I.R.S.T. Robotics Competition (FRC) team.
-## SolidWorks
+## **SolidWorks**
 ### I learned the fundamentals of CAD work in SolidWorks. Here are some example parts:
 ### 1. Pressure plate
 
@@ -37,7 +37,7 @@
 
 <img src="SW.Rack.png" width='500'>
 
-## AutoCAD
+## **AutoCAD**
 ### I applied my SolidWorks experience to AutoCAD.
 ### 1. Cone
 
@@ -51,7 +51,7 @@
 
 <img src="AC.SheetMetal.png" width='500'>
 
-## Fusion 360
+## **Fusion 360**
 ### Over covid lockdown I worked on some personal projects. I did not have access to many softwares and turned to Fusion 360 for its ease of access.
 ### One of those was the design of a toy Biplane for my younger brother that would incorporate a motorized propellor.
 ### 1. Biplane head & tail
@@ -72,7 +72,7 @@
 
 <img src="F3.BatteryStopper.png" width='500'>
 
-## Onshape
+## **Onshape**
 ### While under covid lockdown restrictions I also joined the FRC team. 
 ### We fully designed our robot in CAD before building:
 
