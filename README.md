@@ -96,5 +96,5 @@
 
 ### 3. The I.R. camera mount
 
-<img src="OS.CamerMount.png" width='500'>
+<img src="OS.CameraMount.png" width='500'>
 
