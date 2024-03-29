@@ -2,7 +2,7 @@
 
 # **College**
 ### My CAD work in college has been limited to coursework.
-## Siemens NX
+## **Siemens NX**
 ### Through an engineering design course I was introduced to Siemens NX. The final project for this class had students work in teams to design a bicycle:
 
 ![SolidWorks CAD parts](/NX.FullBike.png)
