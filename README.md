@@ -69,13 +69,11 @@
 ### One of those was the design of a toy Biplane for my younger brother that would incorporate a motorized propellor.
 ### 1. Biplane head & tail
 
-<img src="F3.BiPlaneBody.png" width='400'>
-<img src="F3.BiPlaneTail.png" width='400'>
+<img src="F3.BiPlaneBody.png" width='400'><img src="F3.BiPlaneTail.png" width='400'>
 
 ### 3. Bottom wings & top wings
 
-<img src="F3.BiPlaneBottomWings.png" width='400'>
-<img src="F3.BiPlaneTopWings.png" width='400'>
+<img src="F3.BiPlaneBottomWings.png" width='400'><img src="F3.BiPlaneTopWings.png" width='400'>
 
 ### 5. Propellor
 
@@ -93,8 +91,7 @@
 
 ### I was assigned the shooter mechanism:
 
-<img src="OS.ShooterHeadIsometric.png" width='400'>
-<img src="OS.ShooterHeadIsometricRear.png" width='400'>
+<img src="OS.ShooterHeadIsometric.png" width='400'><img src="OS.ShooterHeadIsometricRear.png" width='400'>
 
 ### The main components for this included:
 ### 1. The side panels
@@ -103,8 +100,7 @@
 
 ### 2. The adjustable hood
 
-<img src="OS.HoodBottom.png" width='400'>
-<img src="OS.HoodTop.png" width='400'>
+<img src="OS.HoodBottom.png" width='400'><img src="OS.HoodTop.png" width='400'>
 
 ### 3. The I.R. camera mount
 
