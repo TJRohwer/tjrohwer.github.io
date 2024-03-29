@@ -14,16 +14,16 @@
 
 ### 2. The tire and wheel.
 
-<img src="NX.BikeTire.png" width='500'>
-<img src="NX.BikeWheel.png" width='500'>
+<img src="NX.BikeTire.png" width='300'>
+<img src="NX.BikeWheel.png" width='300'>
 
 ### 3. The fender.
 
-<img src="NX.BikeFender.png" width='500'>
+<img src="NX.BikeFender.png" width='300'>
 
 ### 4. The water bottle holder.
 
-<img src="NX.WaterBottleHolder.png" width='500'>
+<img src="NX.WaterBottleHolder.png" height='500'>
 
 
 # **High School**
