@@ -19,16 +19,16 @@
 ## **Siemens NX**
 ### Through an engineering design course I was introduced to Siemens NX. The final project for this class had students work in teams to design a bicycle:
 
-<img src="NX.FullBike.png" width='500'>
+<img src="NX.FullBike.png" width='800'>
 
 ### My contributions to the bicycle included:
 ### 1. The frame.
 
-<img src="NX.BikeFrame.png" width='500'>
+<img src="NX.BikeFrame.png" width='800'>
 
 ### 2. The tire and wheel.
 
-<img src="NX.BikeTire.png" width='300'><img src="NX.BikeWheel.png" width='300'>
+<img src="NX.BikeTire.png" width='350'><img src="NX.BikeWheel.png" width='350'>
 
 ### 3. The fender.
 
