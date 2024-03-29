@@ -85,13 +85,16 @@
 <img src="OS.ShooterHeadIsometricRear.png" width='500'>
 
 ### The main components for this included:
-### 1. The side panels:
+### 1. The side panels
 
 <img src="OS.SidePanel.png" width='500'>
 
-### 2. The adjustable hood:
+### 2. The adjustable hood
 
 <img src="OS.HoodBottom.png" width='500'>
 <img src="OS.HoodTop.png" width='500'>
 
+### 3. The I.R. camera mount
+
+<img src="OS.CamerMount.png" width='500'>
 
