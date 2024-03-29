@@ -69,8 +69,7 @@
 
 ### 3. Bottom wings & top wings
 
-<img src="F3.BiPlaneBottomWings.png" width='400'>
-<img src="F3.BiPlaneTopWings.png" width='400'>
+<img src="F3.BiPlaneBottomWings.png" height='250'><img src="F3.BiPlaneTopWings.png" height='250'>
 
 ### 5. Propellor
 
@@ -88,8 +87,8 @@
 
 ### I designed the shooter mechanism:
 
-<img src="OS.ShooterHeadIsometric.png" width='400'>
-<img src="OS.ShooterHeadIsometricRear.png" width='400'>
+<img src="OS.ShooterHeadIsometric.png" width='600'>
+<img src="OS.ShooterHeadIsometricRear.png" width='600'>
 
 ### The main components for this included:
 ### 1. The side panels
@@ -98,8 +97,7 @@
 
 ### 2. The adjustable hood
 
-<img src="OS.HoodBottom.png" width='400'>
-<img src="OS.HoodTop.png" width='400'>
+<img src="OS.HoodBottom.png" width='300'><img src="OS.HoodTop.png" width='300'>
 
 ### 3. The I.R. camera mount
 
