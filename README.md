@@ -1,5 +1,3 @@
-<h1 class="project-name">Theodore Rohwer</h1>
-
 # **CAD Portfolio** 
 
 ## *Quick Links:*
