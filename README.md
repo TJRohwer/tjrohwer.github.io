@@ -30,13 +30,9 @@
 
 <img src="NX.BikeTire.png" width='300'><img src="NX.BikeWheel.png" width='300'>
 
-### 3. The fender.
+### 3. The fender and water bottle holder.
 
-<img src="NX.BikeFender.png" width='300'> 
-
-### 4. The water bottle holder
-
-<img src="NX.WaterBottleHolder.png" height='500'>
+<img src="NX.BikeFender.png" width='300'> <img src="NX.WaterBottleHolder.png" height='300'>
 
 # **High School**
 ### My highschool CAD experience started with an introductory engineering course, and continued to develop in my county-wide F.I.R.S.T. Robotics Competition (FRC) team.
@@ -44,33 +40,32 @@
 ### I learned the fundamentals of CAD work in SolidWorks. Here are some example parts:
 ### 1. Pressure plate
 
-<img src="SW.PressurePlate.png" width='400'>
+<img src="SW.PressurePlate.png" width='600'>
 
 ### 2. Rack
 
-<img src="SW.Rack.png" width='400'>
+<img src="SW.Rack.png" width='600'>
 
 ## **AutoCAD**
 ### I applied my SolidWorks experience to AutoCAD.
 ### 1. Cone
 
-<img src="AC.Cone.png" width='400'>
+<img src="AC.Cone.png" width='600'>
 
 ### 2. Goose neck
 
-<img src="AC.GooseNeck.png" width='400'>
+<img src="AC.GooseNeck.png" width='600'>
 
 ### 3. Sheet Metal
 
-<img src="AC.SheetMetal.png" width='400'>
+<img src="AC.SheetMetal.png" width='600'>
 
 ## **Fusion 360**
 ### Over covid lockdown I worked on some personal projects. I did not have access to many softwares and turned to Fusion 360 for its ease of access.
 ### One of those was the design of a toy Biplane for my younger brother that would incorporate a motorized propellor.
 ### 1. Biplane head & tail
 
-<img src="F3.BiPlaneBody.png" width='400'>
-<img src="F3.BiPlaneTail.png" width='400'>
+<img src="F3.BiPlaneBody.png" height='300'><img src="F3.BiPlaneTail.png" height='300'>
 
 ### 3. Bottom wings & top wings
 
