@@ -1,5 +1,3 @@
-# Theodore Rohwer
-
 # **College**
 ### My CAD work in college has been limited to coursework.
 ## **Siemens NX**
