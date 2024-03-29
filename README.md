@@ -2,15 +2,15 @@
 
 ### Quick Links:
 
-[Siemens NX](#siemens-nx)
+> [Siemens NX](#siemens-nx)
 
-[SolidWorks](#solidworks)
+> [SolidWorks](#solidworks)
 
-[AutoCad](#autocad)
+> [AutoCad](#autocad)
 
-[Fusion 360](#fusion-360)
+> [Fusion 360](#fusion-360)
 
-[Onshape](#onshape)
+> [Onshape](#onshape)
 
 # **College**
 ### My CAD work in college has been limited to coursework.
