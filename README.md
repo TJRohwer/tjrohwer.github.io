@@ -91,7 +91,7 @@
 
 <img src="OS.FullRobot.png" width='400'>
 
-### I was assigned the shooter mechanism:
+### I designed the shooter mechanism:
 
 <img src="OS.ShooterHeadIsometric.png" width='400'>
 <img src="OS.ShooterHeadIsometricRear.png" width='400'>
