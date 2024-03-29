@@ -3,28 +3,27 @@
 # **College**
 ### My CAD work in college has been limited to coursework.
 ## Siemens NX
-> Through an engineering design course I was introduced to Siemens NX. The final project for this class had students work in teams to design a bicycle:
+### Through an engineering design course I was introduced to Siemens NX. The final project for this class had students work in teams to design a bicycle:
 
 ![SolidWorks CAD parts](/NX.FullBike.png)
 
-> My contributions to the bicycle included:
+### My contributions to the bicycle included:
+### 1. The frame.
 
 ![SolidWorks CAD parts](/NX.BikeFrame.png)
 
-> The frame.
+### 2. The tire and wheel.
 
 ![SolidWorks CAD parts](/NX.BikeTire.png)
 ![SolidWorks CAD parts](/NX.BikeWheel.png)
 
-> The tire and wheel.
+### 3. The fender.
 
 ![SolidWorks CAD parts](/NX.BikeFender.png)
 
-> The fender.
+### 4. The water bottle holder.
 
 ![SolidWorks CAD parts](/NX.WaterBottleHolder.png)
-
-> The water bottle holder.
 
 
 # **High School**
