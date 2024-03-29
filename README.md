@@ -65,7 +65,7 @@
 ### One of those was the design of a toy Biplane for my younger brother that would incorporate a motorized propellor.
 ### 1. Biplane head & tail
 
-<img src="F3.BiPlaneBody.png" height='300'><img src="F3.BiPlaneTail.png" height='300'>
+<img src="F3.BiPlaneBody.png" height='225'><img src="F3.BiPlaneTail.png" height='225'>
 
 ### 3. Bottom wings & top wings
 
