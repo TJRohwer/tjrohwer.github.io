@@ -14,8 +14,7 @@
 
 ### 2. The tire and wheel.
 
-<img src="NX.BikeTire.png" width='300'>
-<img src="NX.BikeWheel.png" width='300'>
+<img src="NX.BikeTire.png" width='300'><img src="NX.BikeWheel.png" width='300'>
 
 ### 3. The fender.
 
